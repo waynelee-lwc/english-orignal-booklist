@@ -24,6 +24,22 @@
 
 - C. J. Date - **《The new relational database dictionary》**
 
+- Silvia Botros, Jeremy Tinley - **《High Performance MySQL_ Proven Strategies for Running MySQL at Scale》**
+
+- [The expert's voice in Open Source] Michael Kofler - **《The definitive guide to MySQL 5》** (2005, Apress)
+
+- Darl Kuhn, Thomas Kyte - **《Oracle Database Transactions and Locking Revealed_ Building High Performance Through Concurrency》** (2021, Apress)
+
+- Shefali Naik - **《Concept Of Database Management System》** (2014, Pearson)
+
+- V.K. Pallaw - **《Concept of Database Management Systems》** (2010,  Asian Books )
+
+- Thomas Kyte, Darl Kuhn - **《Expert Oracle Database Architecture》** (2015, Apress)
+
+- Steven Feuerstein, Bill Pribyl, Chip Dawes - **《Oracle PL_SQL Language Pocket Reference》**, 5th Edition (2015, O'Reilly Media)
+
+  
+
 
 
 #### Git
@@ -38,6 +54,12 @@
 - Horstmann Cay S. - **《Core Java. Volume I》** - Fundamentals (2019, Pearson)
 - Horstmann Cay S. - **《Core Java. Volume II》** - Fundamentals (2019, Pearson)
 - Joshua Bloch - **《Effective Java》** (2018, Addison-Wesley Professional)
+
+
+
+#### JavaScript
+
+- David Flanagan - **《JavaScript_ The Definitive Guide》**(2020, O'Reilly Media)
 
 
 
@@ -60,6 +82,26 @@
 
 - Felipe Gutierrez (auth.) - **《Pro Spring Boot》** (2016, Apress) 
 - Craig Walls - **《Spring Boot in Action》** (2016, Manning Publications)
+
+#### 
+
+#### Docker
+
+- Bibin W, Navin Sabharwal - **《Docker Hands on  Deploy, Administer Docker Platform》** ( 2015, Amazon Digital Services)
+- Neependra Khare - **《Docker Cookbook》** (2015, Packt Publishing)
+- Sébastien Goasguen - **《Docker Cookbook》** (2015, O'Reilly Media)
+
+
+
+#### HTML
+
+- Adam Freeman - **《The Definitive Guide to HTML5》** (2011, Apress)
+
+
+
+#### Design Patterns
+
+- Eric Freeman, Elisabeth Robson - **《Head First Design Patterns》**(2020, O'Reilly Media)
 
 
 
