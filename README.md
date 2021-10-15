@@ -113,3 +113,11 @@
 
 - Bruno Lowagie - **《iText in action》** (2010, Manning Publications)
 
+
+
+#### Nginx
+
+- Derek DeJonghe - **《NGINX Unit Cookbook_ Recipes for Using a Versatile Open Source Server》** (2020, O'Reilly Media)
+- Martin Fjordvald Clement Nedelcu - **《Nginx HTTP Server》** - (2018, Packt Publishing)
+- Rahul Soni (auth.) - **《Nginx_ From Beginner to Pro》**  (2016, Apress)
+
