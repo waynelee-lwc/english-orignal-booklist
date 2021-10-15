@@ -53,6 +53,15 @@
 
 
 
+#### C/C++
+
+- Meyers, Scott - **《Effective C++》** 55 Specific Ways to Improve Your Programs and Designs
+- Stanley B. Lippman, Josée Lajoie, Barbara E. Moo -**《C++ Primer》** (2012, Addison-Wesley Professional)
+- Stephen Prata - **《C Primer Plus》** (2013, Addison-Wesley Professional)
+- Stephen Prata - **《C++ Primer Plus》** (2012, Addison-Wesley)
+
+
+
 #### Java
 
 - Horstmann Cay S. - **《Core Java. Volume I》** - Fundamentals (2019, Pearson)
