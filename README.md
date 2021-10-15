@@ -96,8 +96,9 @@
 
 - Felipe Gutierrez (auth.) - **《Pro Spring Boot》** (2016, Apress) 
 - Craig Walls - **《Spring Boot in Action》** (2016, Manning Publications)
+- Craig Walls - **《Spring in Action》** (2021, Manning Publications)
 
-#### 
+
 
 #### Docker
 
