@@ -38,6 +38,10 @@
 
 - Steven Feuerstein, Bill Pribyl, Chip Dawes - **《Oracle PL_SQL Language Pocket Reference》**, 5th Edition (2015, O'Reilly Media)
 
+- Forta, Ben - **《MySQL crash course》** Includes index
+
+- Ben Brumm - **《Beginning Oracle SQL for Oracle Database 18c_ From Novice to Professional》** (2019, Apress)
+
   
 
 
