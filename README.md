@@ -67,12 +67,13 @@
 - Horstmann Cay S. - **《Core Java. Volume I》** - Fundamentals (2019, Pearson)
 - Horstmann Cay S. - **《Core Java. Volume II》** - Fundamentals (2019, Pearson)
 - Joshua Bloch - **《Effective Java》** (2018, Addison-Wesley Professional)
+- Eckel - **《Thinking in Java》** (2006, Prentice_Hall)
 
 
 
 #### JavaScript
 
-- David Flanagan - **《JavaScript_ The Definitive Guide》**(2020, O'Reilly Media)
+- David Flanagan - **《JavaScript The Definitive Guide》**(2020, O'Reilly Media)
 
 
 
