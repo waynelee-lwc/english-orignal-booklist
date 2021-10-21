@@ -89,6 +89,7 @@
 - Mithun Satheesh, Bruno Joseph D' - **《Web Development with MongoDB and NodeJS》**
 - Krishna Rungta -**《 Learn NodeJS in 1 Day_ Complete Node  JS Guide with Examples》**
 - Manuel Kiessling - **《The node craftsman book _ An advanced nodejs tutorial》**
+- Nabendu Biswas - **《MERN Projects for Beginners_ Create Five Social Web Apps Using MongoDB, Express.js, React, and Node》**
 
 
 
