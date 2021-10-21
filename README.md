@@ -141,3 +141,11 @@
 - **《Learning React Native Building Native Mobile Apps with JavaScript》** by Bonnie Eisenman
 - **《Pro React》** by Cassio de Sousa Antonio
 
+
+
+#### MongoDB
+
+- **《Scaling MongoDB》** by Kristina Chodorow
+- **《MongoDB_ The Definitive Guide_ Powerful and Scalable Data Storage》** Shannon Bradshaw, Eoin Brazil, Kristina Chodorow 
+- **《The Little Mongo DB Schema Design Book》** by Christian Amor Kvalheim
+
