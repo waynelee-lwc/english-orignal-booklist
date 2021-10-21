@@ -149,3 +149,11 @@
 - **《MongoDB_ The Definitive Guide_ Powerful and Scalable Data Storage》** Shannon Bradshaw, Eoin Brazil, Kristina Chodorow 
 - **《The Little Mongo DB Schema Design Book》** by Christian Amor Kvalheim
 
+
+
+#### Redis
+
+- Josiah L. Carlson - **《Redis in Action》**-Manning Publications
+- Karl Seguin - **《The Little Redis Book》**
+- Suyog Dilip Kale, Chinmay Kulkarni - **《Redis® Deep Dive_ Explore Redis》** - Its Architecture, Data Structures and Modules like Search, JSON, AI, Graph, Timeseries
+- Tiago Macedo, Fred Oliveira - **《Redis Cookbook》**
