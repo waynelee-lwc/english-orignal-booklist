@@ -157,3 +157,13 @@
 - Karl Seguin - **《The Little Redis Book》**
 - Suyog Dilip Kale, Chinmay Kulkarni - **《Redis® Deep Dive_ Explore Redis》** - Its Architecture, Data Structures and Modules like Search, JSON, AI, Graph, Timeseries
 - Tiago Macedo, Fred Oliveira - **《Redis Cookbook》**
+
+
+
+#### UML
+
+- Bhuvan Unhelkar (Author) - **《Software Engineering with UML》**
+- Kevin Lano - **《UML 2 Semantics and Applications》**
+- Scott, Kendall - **《Fast Track UML 2. 0》**
+- Жуманов Ж.М. - **《Fundamentals of UML_ educational manua》**
+
