@@ -167,3 +167,8 @@
 - Scott, Kendall - **《Fast Track UML 2. 0》**
 - Жуманов Ж.М. - **《Fundamentals of UML_ educational manua》**
 
+
+
+#### Canvas
+
+- Rob Hawkes - 《**HTML5 Canvas for games & entertainment**》
