@@ -172,3 +172,6 @@
 #### Canvas
 
 - Rob Hawkes - 《**HTML5 Canvas for games & entertainment**》
+- Dev Ramtal, Adrian Dobre - 《**Physics for JavaScript Games, Animation, and Simulations**》
+- Steve Fulton, Jeff Fulton - 《**HTML5 Canvas**》
+
